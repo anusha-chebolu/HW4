@@ -1,4 +1,4 @@
-# HW4
+# Image Classification
 
 Use transfer learning for large image classification, going through these steps:
 
